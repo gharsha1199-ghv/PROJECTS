@@ -17,10 +17,9 @@ div h1{
 }
 .container {
     display: flex;
-    justify-content: space-around;
     margin-top: 40px;
     background-color: white;
-justify-content: center;
+justify-content: space-around;
 }
 div.shirts{
     border-radius: 10px;
