@@ -1,0 +1,43 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* margin: 15px 40px; */
+    background-color: black;
+    color: #FFD700;
+    border-radius: 10px;
+    padding: 10px 50px;
+
+}
+body{
+background: url('https://www.transparenttextures.com/patterns/white-wall.png');
+background-color: #f8f8f8;}
+div h1{
+    text-align: center;
+}
+.container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
+    background-color: white;
+}
+div.shirts{
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin-top: 40px;
+}
+h3{
+    margin-left: 20px;
+}
+img{
+    border-radius: 10px;
+}
+footer{
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+    color: #FFD700;
+    margin-top: 40px;
+    border-radius: 10px;
+}
