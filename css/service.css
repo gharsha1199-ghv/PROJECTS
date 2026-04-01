@@ -1,0 +1,69 @@
+.container{
+    padding-top: 20px;
+    display: flex;
+    gap: 20px;
+    justify-content: space-around;
+}
+
+.card{
+    background-color: grey;
+    height:350px ;
+    width: 300px;
+    border: solid #FFD700 7px;
+    
+}
+
+.heading{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+body{
+    margin: 40px 40px;
+    background: url('https://www.transparenttextures.com/patterns/white-wall.png');
+    background-color: #f8f8f8;
+   
+}
+
+.container-top img{
+    display: block;
+    margin-left: 150px;
+    margin-right: auto;
+   border: solid white 10px;
+    
+
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    /* margin: 15px 40px; */
+    background-color: black;
+    color: #FFD700;
+    border-radius: 10px;
+    padding: 10px 50px;
+
+}
+
+footer{
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+    color: #FFD700;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+
+nav a{
+    color: #FFD700;
+    text-decoration: none;
+    margin: 0 15px;
+    font-weight: bold;
+}
+
+.container .card h2{
+    text-align: center;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
